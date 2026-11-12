@@ -1,0 +1,6 @@
+{
+  "name": "Administrasi Kelas & Rapor Terpadu",
+  "description": "Aplikasi Administrasi Kelas Sekolah/Madrasah Terpadu dengan integrasi Supabase Cloud: Data Siswa, Jadwal, Absensi Harian, Jurnal Mengajar, Buku Nilai Otomatis, dan Cetak Rapor A4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
